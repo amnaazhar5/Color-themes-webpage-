@@ -1,0 +1,31 @@
+
+.light {
+  background-color: #CCFFCC; 
+  color: #006600;             
+}
+.light h2 {
+  color: #009900;            
+}
+
+.dark {
+  background-color: #004d00; 
+  color: #ccffcc;         
+}
+.dark h2 {
+  color: #33cc33;            
+}
+
+.natural {
+  background-color: #669966; 
+  color: #f0fff0;          
+}
+.natural h2 {
+  color: #336633;           
+}
+
+
+div {
+  padding: 20px;
+  margin: 15px;
+  border-radius: 10px;
+}
